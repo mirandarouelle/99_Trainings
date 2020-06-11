@@ -16,5 +16,7 @@ git branch <new branch>
  - add new branch
 git checkout <target branch>
  - switching from current branch to <target branch>
+git checkout -b <target branch>
+ - creates <target branch> and switch from current branch to <target branch>
 git merge <source branch>
  - merge source branch into current branch
