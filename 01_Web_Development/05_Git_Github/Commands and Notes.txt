@@ -1,0 +1,18 @@
+git clone <link here>
+ - creates git repository
+git pull
+ - gets latest version of whatever is in the repository
+git status
+ - check status of repository for any changes
+git add <specific file or . for all>
+ - Add file/all into list of files to be commited
+git commit -m "<description of changes>"
+ - commit changes
+git push
+ - push changes to online repository
+git branch
+ - shows list of "branches" within the repository
+git branch <new branch>
+ - add new branch
+git checkout <target branch>
+ - switching from current branch to <target branch>
