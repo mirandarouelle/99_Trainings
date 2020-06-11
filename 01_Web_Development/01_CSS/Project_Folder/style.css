@@ -1,0 +1,52 @@
+/* Selector {
+  property: value;
+} */
+
+*{
+  text-align: right;
+}
+
+body {
+  background-image: url(https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.0-9/574588_589801067714535_1627582271_n.jpg?_nc_cat=109&_nc_sid=85a577&_nc_eui2=AeEZ91oFrnE1qrbSrbK-ZeyJ-T1Sf21V5Qv5PVJ_bVXlC45xGb6qtEppQSBMEfHV2ro&_nc_ohc=vRFMlHHE1GMAX_CzMWY&_nc_ht=scontent.fmnl17-2.fna&oh=069bfa0c94fb1b23601952f1c95ab1ae&oe=5EF7323D);
+  background-size: cover;
+}
+p {
+  color: #AA4139;
+  text-align: center;
+  border: 5px dashed rgba(255, 176, 170, 0.5);
+  cursor: pointer;
+}
+
+p {
+  line-height: 20px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 150%;
+  font-family: Georgia;
+}
+
+img {
+  float: right;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}
+
+ li {
+   list-style: none;
+   display: inline-block;
+ }
+
+ .webtext {
+   border: 5px dashed green;
+ }
+
+#div1 {
+  background-color: rgba(0,0,255,.2);
+}
+
+#div2 {
+  background-color: rgba(255,0,0,.2);
+}
