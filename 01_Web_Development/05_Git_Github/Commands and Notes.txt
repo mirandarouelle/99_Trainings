@@ -20,3 +20,5 @@ git checkout -b <target branch>
  - creates <target branch> and switch from current branch to <target branch>
 git merge <source branch>
  - merge source branch into current branch
+fork
+ - copying repository from another user into your own
