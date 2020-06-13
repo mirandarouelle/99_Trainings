@@ -1,0 +1,7 @@
+Download node.js
+node -v
+ - check version of node.js
+npm -v
+ - check version of npm
+npm init
+ - create package.json inside the package
