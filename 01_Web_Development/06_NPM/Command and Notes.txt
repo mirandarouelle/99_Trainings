@@ -5,3 +5,13 @@ npm -v
  - check version of npm
 npm init
  - create package.json inside the package
+npm install -g live-server
+ - install live-server globally
+live-server
+ - creates a server locally and track changes
+npm install lodash
+ - install lodash locally
+npm install -g browserify
+ - install browserify globally
+browserify script.js > bundle.js
+ - compress script.js into bundle.js
