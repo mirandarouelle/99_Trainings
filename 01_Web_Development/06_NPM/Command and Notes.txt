@@ -15,3 +15,13 @@ npm install -g browserify
  - install browserify globally
 browserify script.js > bundle.js
  - compress script.js into bundle.js
+npm install -g create-react-app
+ - install create-react-app
+create-react-app robofriends
+ - create react app named "robofriends"
+
+To update the version (in this case, react-script):
+1.) Go to project repository
+2.) adjust package.json and update the library needed to be upgraded
+3.) run in console, npm install
+    - this will re-install updated version into repository
