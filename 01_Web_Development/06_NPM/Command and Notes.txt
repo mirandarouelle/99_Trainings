@@ -15,3 +15,5 @@ npm install -g browserify
  - install browserify globally
 browserify script.js > bundle.js
  - compress script.js into bundle.js
+npm init -y
+ - creates package.json

@@ -6,6 +6,8 @@ npm install tachyons
  - install tachyon library
 npm install redux
 npm install react-redux
+npm install redux-logger
+npm install redux-thunk
 
 To update the version (in this case, react-script):
 1.) Go to project repository

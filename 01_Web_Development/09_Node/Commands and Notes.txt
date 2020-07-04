@@ -1,0 +1,10 @@
+touch script.js 
+ - creates script.js in current library
+
+npm install nodemon --save-dev
+ - install nodemon
+
+npm install express
+ - install express
+
+Download postman
